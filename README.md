@@ -3,7 +3,7 @@ PintOS Hint
 
 DO NOT EVER USE this for your SJTU System II Homework.
 
-How to do it? [PintOS][pintos].
+How to do it? [PintOS Guide][pintos].
 
 [pintos]: http://web.stanford.edu/class/cs140/projects/pintos/pintos.html
 
