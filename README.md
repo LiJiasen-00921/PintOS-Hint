@@ -1,7 +1,7 @@
 PintOS Hint
 ==============
 
-DO NOT EVER USE this for your SJTU System II Homework.
+DO NOT EVER USE this for your [SJTU System II Homework](https://github.com/LiJiasen-00921/PintOS-Assignment/).
 
 How to do it? [PintOS Guide][pintos].
 
