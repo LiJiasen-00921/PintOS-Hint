@@ -7,7 +7,7 @@ How to do it? [PintOS Guide][pintos].
 
 [pintos]: http://web.stanford.edu/class/cs140/projects/pintos/pintos.html
 
-AcknowledgementS:
+## Acknowledgements:
 
  - The Pintos core and this documentation were originally written by Ben Pfaff blp@cs.stanford.edu.
 
